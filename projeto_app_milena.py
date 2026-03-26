@@ -12,11 +12,6 @@ Barbearia
  
 '''
 
-
-print('Hello world!')
-
-# input('Precione o Enter para sair...')
-
 nome_cliente = input('inserir seu nome:')
 
 
